@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,
-  <p>I'm Mahfuzur Rahmanp>
+  <p>I'm Mahfuzur Rahman
 </h1>
 <h3 align="center">A passionate Web Designer and Developer from Bangladesh</h3>
 
