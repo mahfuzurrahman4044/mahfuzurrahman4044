@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋,
   <p>I'm Mahfuzur Rahman
+    <h3 align="center">A passionate Web Designer and Developer from Bangladesh</h3>
 </h1>
-<h3 align="center">A passionate Web Designer and Developer from Bangladesh</h3>
+
 
 - 🌱 I’m currently learning **Next**
 
