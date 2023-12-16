@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/mahfuzurrahman4044/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/mahfuzurrahman4044/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahfuzurrahman4044/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/mahfuzurrahman4044/" height="30" width="40" /></a>
 <a href="https://fb.com/mr4044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr4044" height="30" width="40" /></a>
 </p>
 
