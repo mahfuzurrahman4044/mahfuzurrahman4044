@@ -3,7 +3,6 @@
     <h3 align="center">A passionate Web Designer and Developer from Bangladesh</h3>
 </h1>
 
-
 - 🌱 I’m currently learning **Next**
 
 - 👨‍💻 All of my projects are available at [https://frolicking-hotteok-2bf588.netlify.app/](https://frolicking-hotteok-2bf588.netlify.app/)
