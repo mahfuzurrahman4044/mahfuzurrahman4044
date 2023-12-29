@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://frolicking-hotteok-2bf588.netlify.app/](https://frolicking-hotteok-2bf588.netlify.app/)
+- 👨‍💻 All of my projects are available at https://fascinating-licorice-f64b48.netlify.app/
 
 - 💬 Ask me about **MERN**
 
