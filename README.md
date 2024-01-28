@@ -3,7 +3,7 @@
     <h3 align="center">A passionate Web Designer and Developer</h3>
 </h1>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **WordPress**
 
 - 👨‍💻 All of my projects are available at https://fascinating-licorice-f64b48.netlify.app/
 
