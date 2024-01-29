@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,
   <p>I'm Mahfuzur Rahman
-    <h3 align="center">Passionate Web Designer and Developer</h3>
+    <h3 align="center">A Passionate Web Designer and Developer</h3>
 </h1>
 
 - 🌱 I’m currently learning **WordPress**
