@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋,
   <p>I'm Mahfuzur Rahman
-    <h3 align="center">A Passionate Web Designer and Developer</h3>
+    <h3 align="center">Junior MERN Stack Developer</h3>
 </h1>
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at https://fascinating-licorice-f64b48.netlify.app/
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mahfuzurrahman4044@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x0vU8StT-qR5SKh3SMuQjP_KgZS-B3CO/view?usp=sharing](https://drive.google.com/file/d/1x0vU8StT-qR5SKh3SMuQjP_KgZS-B3CO/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1tYquE-fLFOJ_Ikrxvntpqd3cSwsb5-mq/view?usp=sharing)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
