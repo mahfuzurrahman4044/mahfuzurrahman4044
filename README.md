@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,
   <p>I'm Mahfuzur Rahman
-    <span align="center">Junior MERN Stack Developer</span>
+    <p align="center">Junior MERN Stack Developer</p>
 </h1>
 
 - 🌱 I’m currently learning **Redux**
