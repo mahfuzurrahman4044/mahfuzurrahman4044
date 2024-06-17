@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [https://mahfuzur-rahman-portfolio.netlify.app/]
+- 👨‍💻 All of my projects are available at https://mahfuzur-rahman-portfolio.netlify.app/
 
-- 📝 I regularly write articles on [https://bistro-boss-mahfuzur-rahman.netlify.app/]
+- 📝 I regularly write articles on https://bistro-boss-mahfuzur-rahman.netlify.app/
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **mahfuzurrahman4044@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tYquE-fLFOJ_Ikrxvntpqd3cSwsb5-mq/view?usp=drive_link]
+- 📄 Know about my experiences https://drive.google.com/file/d/1tYquE-fLFOJ_Ikrxvntpqd3cSwsb5-mq/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
