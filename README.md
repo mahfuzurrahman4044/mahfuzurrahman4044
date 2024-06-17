@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [https://fascinating-licorice-f64b48.netlify.app/](https://fascinating-licorice-f64b48.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mahfuzur-rahman-portfolio.netlify.app/]
 
-- 📝 I regularly write articles on [https://bistro-boss-24a97.web.app/](https://bistro-boss-24a97.web.app/)
+- 📝 I regularly write articles on [https://bistro-boss-mahfuzur-rahman.netlify.app/]
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **mahfuzurrahman4044@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tYquE-fLFOJ_Ikrxvntpqd3cSwsb5-mq/view?usp=sharing](https://drive.google.com/file/d/1tYquE-fLFOJ_Ikrxvntpqd3cSwsb5-mq/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tYquE-fLFOJ_Ikrxvntpqd3cSwsb5-mq/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahfuzurrahman4044/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahfuzurrahman4044/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mahfuzurrahman2048/" target=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahfuzurrahman4044/" target=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
